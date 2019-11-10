@@ -6,7 +6,6 @@ INFO: Python program for Hangman
       Gives you the option of changing the language
       (English, Italian, French, Spanish, Japanese)
       Uses Tkinter and Turtle modules
-2 WEEK DEADLINE => GET DONE BY 11/10
 '''
 
 from tkinter import *
